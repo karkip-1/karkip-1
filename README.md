@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and ML/AI.
 - 📫 How to reach me via prafulla_karki@yahoo.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: Loves running, singing, dancing and learning. Everything is fun. 
+- ⚡ Fun fact: Loves running, singing, dancing, learning, cooking etc. Everything is fun if you enjoy what you do.
 
 <!---
 karkip-1/karkip-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
